@@ -1,4 +1,4 @@
-.subtext {
+body {
     background: linear-gradient(to bottom right, #00ccff, #66ffcc);
 }
 .NavBar{
@@ -7,5 +7,4 @@
     height: 10%;
     margin: 0;
     padding: 0;
-    border: 5px solid green;
 }
