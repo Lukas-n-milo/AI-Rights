@@ -1,5 +1,5 @@
 body {
-    background-color: #f9f9f9;
+    background: linear-gradient(to bottom right, #00ccff, #66ffcc);
 }
 .NavBar{
     background-color: #b1b1b1;
