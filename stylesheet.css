@@ -1,5 +1,9 @@
+#site{
+    overflow-x: hidden;
+}
+
 body {
-    background: linear-gradient(to bottom right, #00ccff, #66ffcc);
+    background-color:#52bdad;
 }
 .NavBar{
     background-color: #ffffff;
