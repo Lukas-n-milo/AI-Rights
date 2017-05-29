@@ -11,7 +11,13 @@ body {
     height: 5%;
     margin-left: -.7%;
     margin-top: -.7%;
+    list-style-type: none;
 }
+.NavBar a{
+    display: block;
+    width: 60px;
+}
+
 .Subtext{
     border-left: 10px solid Blue
     background-color: skyblue;
