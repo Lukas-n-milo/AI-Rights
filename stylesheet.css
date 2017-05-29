@@ -12,3 +12,9 @@ body {
     margin-left: -.7%;
     margin-top: -.7%
 }
+.Subtext{
+    border-left: 10px solid Blue
+    background-color: light blue
+    margin-left: 15%
+    margin-right: 15%
+}
