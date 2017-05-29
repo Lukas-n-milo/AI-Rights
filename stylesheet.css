@@ -1,3 +1,26 @@
+#site{
+    overflow-x: hidden;
+}
+
 body {
-    background-color: #42DAFA
+    background-color:#69e6d4;
+}
+.NavBar{
+    background-color: #b0f2e8;
+    width: 101.4%;
+    height: 5%;
+    margin-left: -.7%;
+    margin-top: -.7%;
+    list-style-type: none;
+}
+.NavBar a{
+    display: block;
+    width: 60px;
+}
+
+.Subtext{
+    border-left: 10px solid Blue;
+    background-color: skyblue;
+    margin-left: 15%;
+    margin-right: 15%;
 }
