@@ -27,6 +27,19 @@ body{
     display: flex;
 }
 
+.pros{
+    width: 45%;
+    margin-left: 5%;
+    border-left: 10px solid green;
+    background-color: lightgreen;
+}
+.cons{
+    width: 45%;
+    margin-left: 5%;
+    border-left: 10px solid darkred;
+    background-color: red;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
