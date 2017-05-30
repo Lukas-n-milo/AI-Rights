@@ -23,6 +23,13 @@
     margin-right: 15%;
 }
 
+.borderpadding {
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+
 .bodytext{
     display: flex;
     margin-top: 2%;
